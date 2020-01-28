@@ -1,0 +1,36 @@
+div {
+    background-color: royalblue;
+    width:400px;
+    margin: 200px auto;
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+}
+form{
+    padding: 30px;
+    color: seashell;
+}
+
+body {
+    background-image: url(photo.jpg);
+}
+button{
+    margin: 20px auto;
+    width: 150px;
+    height: 50px;
+    background-color: rgb(246, 250, 0);
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+}
+button:hover {
+    background-color: tomato;
+}
+.field{
+    background-color:rgb(160, 238, 248);
+    border-radius: 10px;
+    height: 20px;
+    width: 250px;
+    cursor: pointer;
+    border: 0;
+}
